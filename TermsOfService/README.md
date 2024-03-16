@@ -46,12 +46,6 @@
   
   <p className="fs-5" style={{ color: 'white', fontFamily: 'Inter, sans-serif', fontSize: "auto" }}>VoidX reserves the right to modify or suspend the service at any time.</p>
   <br />
-  
-  <h3 style={{ fontFamily: 'Inter, sans-serif', fontFeatureSettings: 'liga 1, calt 1', fontStyle: 'normal', fontWeight: 600, color: 'white' }}>Applicable Law</h3>
-  <br />
-  
-  <p className="fs-5" style={{ color: 'white', fontFamily: 'Inter, sans-serif', fontSize: "auto" }}>These terms are subject to the laws of Spain.</p>
-  <br />
 
   <Footer />
 </Container>
