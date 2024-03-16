@@ -13,6 +13,7 @@
   </h1>
   <br />
 
+  <p className="fs-5" style={{ color: 'white', fontFamily: 'Inter, sans-serif', fontSize: "auto" }}>Last updated: 03/16/2024</p>
   <p className="fs-5" style={{ color: 'white', fontFamily: 'Inter, sans-serif', fontSize: "auto" }}>Welcome to the Discord VoidX bot. By using this service, you agree to the following terms and conditions. Please read carefully.</p>
   <br />
   
