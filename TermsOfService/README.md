@@ -37,7 +37,7 @@
   <h3 style={{ fontFamily: 'Inter, sans-serif', fontFeatureSettings: 'liga 1, calt 1', fontStyle: 'normal', fontWeight: 600, color: 'white' }}>Privacy</h3>
   <br />
   
-  <p className="fs-5" style={{ color: 'white', fontFamily: 'Inter, sans-serif', fontSize: "auto" }}>The privacy policy for the VoidX can be found at <a href="/pp/" style={{ textDecoration: "none", color: '#5865F2' }}>here</a>.</p>
+  <p className="fs-5" style={{ color: 'white', fontFamily: 'Inter, sans-serif', fontSize: "auto" }}>The privacy policy for the VoidX can be found at <a href="/PrivacyPolicy/README.md" style={{ textDecoration: "none", color: '#5865F2' }}>here</a>.</p>
   <br />
   
   <h3 style={{ fontFamily: 'Inter, sans-serif', fontFeatureSettings: 'liga 1, calt 1', fontStyle: 'normal', fontWeight: 600, color: 'white' }}>Modifications and Termination</h3>
