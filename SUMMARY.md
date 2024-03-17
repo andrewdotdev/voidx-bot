@@ -1,5 +1,4 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Terms Of Service VoidX](tos.md)
+* [Terms Of Service VoidX](README.md)
 * [Privacy Policy VoidX](pp.md)

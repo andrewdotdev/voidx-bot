@@ -9,9 +9,8 @@ Welcome to the VoidX Privacy Policy, operated by andrew.dev.es. This Privacy Pol
 ### 1. Developer Information and Purpose
 
 Developer: andrew.dev.es.\
-Contact: [Discord](https://discord.com/users/500739289462603805).\
-Purpose: Improve your stay in the communication network, Discord.\
-
+Contact: [Discord](https://discord.com/invite/x9a9psQHfT).\
+Purpose: Improve your stay in the communication network, Discord.\\
 
 ### 2. Data Collected and Stored
 
@@ -46,4 +45,4 @@ By using the bot, you consent to the collection, processing and use of your pers
 
 **Note: We are not responsible for the inappropriate use of artificial intelligence**
 
-If you have any questions about this Privacy Policy, please contact us at [Discord](https://discord.com/users/500739289462603805). If the URL does not work, please try https://discord.com/users/500739289462603805.
+If you have any questions about this Privacy Policy, please contact us at [Discord](https://discord.com/invite/x9a9psQHfT).
