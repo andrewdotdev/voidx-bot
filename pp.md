@@ -19,7 +19,7 @@ Purpose: Improve your stay in the communication network, Discord.
 ### 3. Use of Data
 
 * Identify the images provided with the user's will.
-* See your songs added to the playlist provided by the user with their consent.
+* Play the songs added to the playlist provided by the user with their consent.
 
 ### 4. Share Information
 
