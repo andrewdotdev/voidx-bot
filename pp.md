@@ -1,5 +1,5 @@
 ---
-description: 'Last Update: 03/16/2024'
+description: 'Last Update: 04/14/2024'
 ---
 
 # Privacy Policy VoidX
@@ -15,31 +15,28 @@ Purpose: Improve your stay in the communication network, Discord.
 ### 2. Data Collected and Stored
 
 * Information provided voluntarily by users, by this we mean the playlist, the ID of the users and servers, to identify their configurations and data explained in this section, and temporarily, the files in image format for the image recognition function.
+* We save the last 5 messages sent in a guild, we do not save the owner of the message, and only the ai can read the messages, it is only to have a chat history. Once the 5th message arrives, the last message is deleted and another one is created.
 
 ### 3. Use of Data
 
 * Identify the images provided with the user's will.
 * Play the songs added to the playlist provided by the user with their consent.
+* To have a guild chat history for artificial intelligence. We do not store the owner of the message
 
 ### 4. Share Information
 
-VoidX does not share personal information with third parties without your consent, the use of the integrated Artificial Intelligence is under your own consent.
+VoidX does not share personal information with third parties, the use of the integrated Artificial Intelligence is under your own consent.
 
-### 5. Data Security
+### 5. User Rights
 
-Only you and we are able to see the following data:
-
-* Your own playlist
-
-### 6. User Rights
-
-Users have the right to access, correct or delete their personal data collected **(1)**. To do this, go to the bot and use the following commands:
+Users have the right to access, correct or delete their personal data collected. To do this, go to the bot and use the following commands:
 
 * /playlist remove song: (It will display a list of your songs from your playlist, then remove them one by one).
+* /playlist destroy
 
 If you wish, you can contact our team through the [support server](https://discord.gg/x9a9psQHfT) to help you delete your playlist information.
 
-### 7. User Consent
+### 6. User Consent
 
 By using the bot, you consent to the collection, processing and use of your personal data in accordance with this Privacy Policy.
 
