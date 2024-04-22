@@ -1,5 +1,5 @@
 ---
-description: 'Last Update: 04/14/2024'
+description: 'Last Update: 04/22/2024'
 ---
 
 # Privacy Policy VoidX

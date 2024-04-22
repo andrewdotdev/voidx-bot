@@ -8,7 +8,7 @@ Welcome to the Discord VoidX bot. By using this service, you agree to the follow
 
 ### Acceptance of Terms
 
-By using the VoidX app, you automatically agree to these terms of service. If you do not agree to these terms, please stop using the bot immediately.
+By using the VoidX app, you automatically agree to these terms of service and the Privacy Policy. If you do not agree to these terms, please stop using the bot immediately.
 
 ### Acceptable Use
 
