@@ -1,5 +1,5 @@
 ---
-description: 'Last Update: 03/16/2024'
+description: 'Last Update: 04/22/2024'
 ---
 
 # Terms Of Service VoidX
